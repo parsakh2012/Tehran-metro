@@ -1,0 +1,158 @@
+line,order,name_en,name_fa
+1,1,Tajrish,تجریش
+1,2,Gheytariyeh,قیطریه
+1,3,Shahid Sadr,شهید صدر
+1,4,Gholhak,قلهک
+1,5,Shariati,شریعتی
+1,6,Mirdamad,میرداماد
+1,7,Shahid Haghani,شهید حقانی
+1,8,Shahid Hemmat,شهید همت
+1,9,Mosalla Imam Khomeini,مصلی امام خمینی
+1,10,Shahid Beheshti,شهید بهشتی
+1,11,Shahid Mofatteh,شهید مفتح
+1,12,Shohada-ye Haftom-e Tir,شهدای هفتم تیر
+1,13,Taleghani,طالقانی
+1,14,Darvazeh Dowlat,دروازه دولت
+1,15,Saadi,سعدی
+1,16,Imam Khomeini,امام خمینی
+1,17,Panzdah-e-Khordad,پانزده خرداد
+1,18,Khayam,خیام
+1,19,Meydan-e Mohammadiyeh,میدان محمدیه
+1,20,Shush,شوش
+1,21,Payane Jonoob,پایانه جنوب
+1,22,Shahid Bokharaei,شهید بخارایی
+1,23,Ali Abad,علی‌آباد
+1,24,Javanmard-e Ghassab,جوانمرد قصاب
+1,25,Shahr-e Rey,شهرری
+1,26,Palayeshgah,پالایشگاه
+1,27,Shahed-Bagher Shahr,شاهد - باقرشهر
+1,28,Haram-e Motahhar-e Imam Khomeini,حرم مطهر امام خمینی
+1,29,Kahrizak,کهریزک
+2,1,Farhangsara,فرهنگسرا
+2,2,Tehranpars,تهرانپارس
+2,3,Shahidan Bagheri,شهیدان باقری
+2,4,Elm-o-Sanat University,دانشگاه علم و صنعت
+2,5,Sarsabz,سرسبز
+2,6,Janbazan,جانبازان
+2,7,Fadak,فدک
+2,8,Sabalan,سبلان
+2,9,Shahid Madani,شهید مدنی
+2,10,Imam Hossein,امام حسین
+2,11,Darvazeh Shemiran,دروازه شمیران
+2,12,Baharestan,بهارستان
+2,13,Mellat,ملت
+2,14,Imam Khomeini,امام خمینی
+2,15,Hasan Abad,حسن‌آباد
+2,16,Daneshgah-e Emam Ali,دانشگاه امام علی
+2,17,Meydan-e Horr,میدان حر
+2,18,Shahid Navvab-e Safavi,شهید نواب صفوی
+2,19,Shademan,شادمان
+2,20,Daneshgah-e Sharif,دانشگاه شریف
+2,21,Tarasht,طرشت
+2,22,Tehran (Sadeghiyeh),تهران (صادقیه)
+3,1,Ghaem,قائم
+3,2,Shahid Mahallati,شهید محلاتی
+3,3,Aghdasiyeh,اقدسیه
+3,4,Nobonyad,نوبنیاد
+3,5,Hossein Abad,حسین‌آباد
+3,6,Heravi,هروی
+3,7,Shahid Zeyn-o-ddin,شهید زین‌الدین
+3,8,Khajeh Abdollah-e Ansari,خواجه عبدالله انصاری
+3,9,Shahid Sayyad-e Shirazi,شهید صیاد شیرازی
+3,10,Shahid Ghoddoosi,شهید قدوسی
+3,11,Sohrevardi,سهروردی
+3,12,Shahid Beheshti,شهید بهشتی
+3,13,Mirzaye Shirazi,میرزای شیرازی
+3,14,Meydan-e Jahad,میدان جهاد
+3,15,Meydan-e Vali Asr,میدان ولیعصر
+3,16,Teatr-e Shahr,تئاتر شهر
+3,17,Moniriyeh,منیریه
+3,18,Mahdiyeh,مهدیه
+3,19,Rahahan,راه‌آهن
+3,20,Javadiyeh,جوادیه
+3,21,Zam Zam,زمزم
+3,22,Shahrak-e Shariati,شهرک شریعتی
+3,23,Abdol Abad,عبدل‌آباد
+3,24,Ne'mat Abad,نعمت‌آباد
+3,25,Azadegan,آزادگان
+4,1,Shahid Kolahdooz,شهید کلاهدوز
+4,2,Nirooye Havaei,نیروی هوایی
+4,3,Nabard,نبرد
+4,4,Piroozi,پیروزی
+4,5,Ebn-e Sina,ابن سینا
+4,6,Meydan-e Shohada,میدان شهدا
+4,7,Darvazeh Shemiran,دروازه شمیران
+4,8,Darvazeh Dowlat,دروازه دولت
+4,9,Ferdowsi,فردوسی
+4,10,Teatr-e Shahr,تئاتر شهر
+4,11,Meydan-e Enghelab-e Eslami,میدان انقلاب اسلامی
+4,12,Towhid,توحید
+4,13,Shademan,شادمان
+4,14,Doctor Habib-o-llah,دکتر حبیب‌الله
+4,15,Ostad Moein,استاد معین
+4,16,Meydan-e Azadi,میدان آزادی
+4,17,Bimeh,بیمه
+4,18,Shahrak-e Ekbatan,شهرک اکباتان
+4,19,Eram-e Sabz,ارم سبز
+4,20,Allameh Jafari,علامه جعفری
+5,1,Tehran (Sadeghiyeh),تهران (صادقیه)
+5,2,Eram-e Sabz,ارم سبز
+5,3,Varzeshgah-e Azadi,ورزشگاه آزادی
+5,4,Chitgar,چیتگر
+5,5,Iran Khodro,ایران خودرو
+5,6,Vardavard,وردآورد
+5,7,Garmdarreh,گرمدره
+5,8,Atmosfer,اتمسفر
+5,9,Karaj,کرج
+5,10,Mohammad Shahr,محمدشهر
+5,11,Golshahr,گلشهر
+5,12,Shahid Fakhrizadeh (Mammut),شهید فخری‌زاده (ممتوت)
+5,13,Shahid Sepahbod Qasem Soleimani,شهید سپهبد قاسم سلیمانی
+6,1,Shahid Arman Aliverdi (Kouhsar),شهید آرمان علی‌وردی (کوهسار)
+6,2,Shohada-ye Kan,شهدای کن
+6,3,Shahran,شهران
+6,4,Shahr-e Ziba,شهر زیبا
+6,5,Ayatollah Kashani,آیت‌الله کاشانی
+6,6,Shahid Sattari,شهید ستاری
+6,7,Shahid Ashrafi Esfahani,شهید اشرفی اصفهانی
+6,8,Yadegar-e Emam,یادگار امام
+6,9,Marzdaran,مرزداران
+6,10,Shahrak-e Azmayesh,شهرک آزمایش
+6,11,Daneshgah-e Tarbiat Modares,دانشگاه تربیت مدرس
+6,12,Karegar,کارگر
+6,13,Boostan-e Laleh,بوستان لاله
+6,14,Meydan-e Vali Asr,میدان ولیعصر
+6,15,Maryam-e Moghaddas (Shahid Nejatollahi),مریم مقدس (شهید نجات‌اللهی)
+6,16,Shohada-ye Haftom-e Tir,شهدای هفتم تیر
+6,17,Bahar Shiraz,بهار شیراز
+6,18,Sarbaz Vatan,سرباز وطن
+6,19,Imam Hossein,امام حسین
+6,20,Meydan-e Shohada,میدان شهدا
+6,21,Amir Kabir,امیرکبیر
+6,22,Meydan-e Khorasan,میدان خراسان
+6,23,Shahid Rezaei,شهید رضایی
+6,24,Besat,بعثت
+6,25,Kiyan Shahr,کیان‌شهر
+6,26,Shohada-ye Dowlat Abad,شهدای دولت‌آباد
+7,1,Meydan-e Ketab,میدان کتاب
+7,2,Shahid Dadman,شهید دادمان
+7,3,Meydan-e San'at,میدان صنعت
+7,4,Borj-e Milad-e Tehran,برج میلاد تهران
+7,5,Boostan-e Goftegou,بوستان گفتگو
+7,6,Daneshgah-e Tarbiat Modares,دانشگاه تربیت مدرس
+7,7,Modafean Salamat,مدافعان سلامت
+7,8,Towhid,توحید
+7,9,Shahid Navvab-e Safavi,شهید نواب صفوی
+7,10,Roudaki,رودکی
+7,11,Komeyl,کمیل
+7,12,Beryanak,بریانک
+7,13,Helal-e Ahmar,هلال احمر
+7,14,Mahdiyeh,مهدیه
+7,15,Meydan-e Mohammadiyeh,میدان محمدیه
+7,16,Molavi,مولوی
+7,17,Meydan-e Ghiam,میدان قیام
+7,18,Shohada-ye Hefdah-e Shahrivar,شهدای هفدهم شهریور
+7,19,Chehel Tan-e Doolab,چهل‌تن دولاب
+7,20,Ahang,آهنگ
+7,21,Basij,بسیج
+7,22,Varzeshgah-e Takhti,ورزشگاه تختی
